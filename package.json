@@ -1,7 +1,7 @@
 {
   "name": "playwright-training",
   "version": "1.0.0",
-  "description": "testing e2e training with playwright",
+  "description": "e2e testing training with playwright",
   "main": "index.js",
   "scripts": {
     "test" : "playwright test",
