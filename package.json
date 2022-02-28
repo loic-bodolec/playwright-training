@@ -1,12 +1,12 @@
 {
   "name": "playwright-training",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing e2e training with playwright",
   "main": "index.js",
   "scripts": {
-    "test" : "npx playwright test",
-    "chromium" : "npx playwright test --project=chromium",
-    "firefox" : "npx playwright test --project=firefox"
+    "test" : "playwright test",
+    "chromium" : "playwright test --project=chromium",
+    "firefox" : "playwright test --project=firefox"
   },
   "keywords": [],
   "author": "",
